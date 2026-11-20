@@ -1,0 +1,380 @@
+{
+ "brisa-robotica": {
+  "name": "Brisa Robotica",
+  "website": "brisa.tech",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "brisa-robotica",
+   "name": "Brisa Robotica",
+   "website": "brisa.tech",
+   "city": "recife",
+   "sector": "Logistics",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/recife-br"
+  }
+ },
+ "datainfox": {
+  "name": "Datainfox",
+  "website": "datainfox.com",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "datainfox",
+   "name": "Datainfox",
+   "website": "datainfox.com",
+   "city": "guayaquil",
+   "sector": "HR Tech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/guayaquil-ec"
+  }
+ },
+ "democracyos": {
+  "name": "DemocracyOS",
+  "website": "democracyos.org",
+  "signal": "manual",
+  "note": "domain taken over: democracyos.org redirects to an unrelated download site",
+  "company": {
+   "id": "democracyos",
+   "name": "DemocracyOS",
+   "website": "democracyos.org",
+   "city": "buenos-aires",
+   "sector": "Other",
+   "stage": "Early",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "yc",
+   "listed_url": "https://www.ycombinator.com/companies/democracyos",
+   "team_size": 1,
+   "logo": "https://bookface-images.s3.amazonaws.com/small_logos/74f22bc34079364b8ce68dc36391a903a1d478b2.png",
+   "description": "Online space for deliberation, policy making and democratic…"
+  }
+ },
+ "flow-s-a": {
+  "name": "Flow S.A.",
+  "website": "flow.bo",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "flow-s-a",
+   "name": "Flow S.A.",
+   "website": "flow.bo",
+   "city": "santa-cruz-de-la-sierra",
+   "sector": "E-commerce",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/santa-cruz-de-la-sierra-bo"
+  }
+ },
+ "framework-science": {
+  "name": "Framework < Science / >",
+  "website": "fwscience.us",
+  "signal": "manual",
+  "note": "domain expired (fwscience.us redirects to an expired-domains marketplace)",
+  "company": {
+   "id": "framework-science",
+   "name": "Framework < Science / >",
+   "website": "fwscience.us",
+   "city": "tijuana",
+   "sector": "SaaS",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/tijuana-mx"
+  }
+ },
+ "frubana": {
+  "name": "Frubana",
+  "website": "frubana.com",
+  "signal": "yc",
+  "note": null,
+  "company": {
+   "id": "frubana",
+   "name": "Frubana",
+   "website": "frubana.com",
+   "city": "bogota",
+   "sector": "B2B Marketplace",
+   "stage": "Growth",
+   "ats": null,
+   "ats_slug": null
+  }
+ },
+ "gogetit": {
+  "name": "Gogetit",
+  "website": "gogetit.com.pa",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "gogetit",
+   "name": "Gogetit",
+   "website": "gogetit.com.pa",
+   "city": "panama-city",
+   "sector": "Proptech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/panama"
+  }
+ },
+ "hash": {
+  "name": "Hash",
+  "website": "hash.com.br",
+  "signal": "manual",
+  "note": "wound down in 2022 after failing to raise (https://ca.finance.yahoo.com/news/qed-investors-backed-fintech-hash-202954686.html)",
+  "company": {
+   "id": "hash",
+   "name": "Hash",
+   "website": "hash.com.br",
+   "city": "sao-paulo",
+   "sector": "Fintech",
+   "stage": "Growth",
+   "ats": null,
+   "ats_slug": null
+  }
+ },
+ "jobbers-argentina": {
+  "name": "Jobbers Argentina",
+  "website": "jobbersargentina.net",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "jobbers-argentina",
+   "name": "Jobbers Argentina",
+   "website": "jobbersargentina.net",
+   "city": "cordoba",
+   "sector": "Marketplace",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/c%C3%B3rdoba-ar"
+  }
+ },
+ "justforyou": {
+  "name": "JustForYou",
+  "website": "justfor.com.br",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "justforyou",
+   "name": "JustForYou",
+   "website": "justfor.com.br",
+   "city": "campinas",
+   "sector": "E-commerce",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/campinas-br"
+  }
+ },
+ "magnetis": {
+  "name": "Magnetis",
+  "website": "magnetis.com.br",
+  "signal": "manual",
+  "note": "acquired by BTG Pactual in 2023; site now redirects to BTG (https://www.bloomberglinea.com.br/negocios/btg-pactual-retoma-ma-e-compra-magnetis-gestora-digital-que-atende-alta-renda/)",
+  "company": {
+   "id": "magnetis",
+   "name": "Magnetis",
+   "website": "magnetis.com.br",
+   "city": "sao-paulo",
+   "sector": "Fintech",
+   "stage": "Growth",
+   "ats": null,
+   "ats_slug": null
+  }
+ },
+ "mpos-global": {
+  "name": "mPOS Global",
+  "website": "mpos.co",
+  "signal": "parked",
+  "note": "Account Suspended",
+  "company": {
+   "id": "mpos-global",
+   "name": "mPOS Global",
+   "website": "mpos.co",
+   "city": "panama-city",
+   "sector": "Fintech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/panama"
+  }
+ },
+ "olho-do-dono": {
+  "name": "Olho do Dono",
+  "website": "olhododono.agr.br",
+  "signal": "yc",
+  "note": null,
+  "company": {
+   "id": "olho-do-dono",
+   "name": "Olho do Dono",
+   "website": "olhododono.agr.br",
+   "city": "vitoria",
+   "sector": "Foodtech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/vit%C3%B3ria-br"
+  }
+ },
+ "secat-bpo": {
+  "name": "Secat Bpo",
+  "website": "secatbpo.com",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "secat-bpo",
+   "name": "Secat Bpo",
+   "website": "secatbpo.com",
+   "city": "managua",
+   "sector": "HR Tech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/nicaragua"
+  }
+ },
+ "seshat-financial-services": {
+  "name": "Seshat Financial Services",
+  "website": "seshatbank.com",
+  "signal": "manual",
+  "note": "hosting lapsed (HTTP 402 Payment Required), no archived site",
+  "company": {
+   "id": "seshat-financial-services",
+   "name": "Seshat Financial Services",
+   "website": "seshatbank.com",
+   "city": "tegucigalpa",
+   "sector": "Fintech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/honduras"
+  }
+ },
+ "sled": {
+  "name": "Sled",
+  "website": "sled.com.br",
+  "signal": "manual",
+  "note": "domain no longer connected to its site (Wix 'ConnectYourDomain' error)",
+  "company": {
+   "id": "sled",
+   "name": "Sled",
+   "website": "sled.com.br",
+   "city": "florianopolis",
+   "sector": "SaaS",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/florian%C3%B3polis-br"
+  }
+ },
+ "te-ayudo-bolivia": {
+  "name": "Te Ayudo Bolivia",
+  "website": "teayudo.com.bo",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "te-ayudo-bolivia",
+   "name": "Te Ayudo Bolivia",
+   "website": "teayudo.com.bo",
+   "city": "santa-cruz-de-la-sierra",
+   "sector": "SaaS",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/santa-cruz-de-la-sierra-bo"
+  }
+ },
+ "trela": {
+  "name": "Trela",
+  "website": "trela.com.br",
+  "signal": "manual",
+  "note": "announced the end of its operations in 2026 (https://www.infomoney.com.br/?p=3278867)",
+  "company": {
+   "id": "trela",
+   "name": "Trela",
+   "website": "trela.com.br",
+   "city": "sao-paulo",
+   "sector": "Foodtech",
+   "stage": "Growth",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "yc",
+   "listed_url": "https://www.ycombinator.com/companies/trela",
+   "team_size": 120,
+   "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eee54ff015e6d1a6d96b6bd7a3c2c4c7bde8d1c1.png",
+   "description": "Your one-stop shop to eat well in Brazil"
+  }
+ },
+ "ucovalley-garlic": {
+  "name": "UcoValley Garlic",
+  "website": "ucovalleygarlic.com.ar",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "ucovalley-garlic",
+   "name": "UcoValley Garlic",
+   "website": "ucovalleygarlic.com.ar",
+   "city": "mendoza",
+   "sector": "Edtech",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/mendoza-ar"
+  }
+ },
+ "voltz-motors": {
+  "name": "Voltz Motors",
+  "website": "voltzmotors.com",
+  "signal": "manual",
+  "note": "in judicial recovery with operations halted; site down since 2025 (https://neofeed.com.br/startups/com-divida-de-r-3351-milhoes-voltz-se-prepara-para-recuperacao-judicial/)",
+  "company": {
+   "id": "voltz-motors",
+   "name": "Voltz Motors",
+   "website": "voltzmotors.com",
+   "city": "recife",
+   "sector": "Mobility",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/recife-br"
+  }
+ },
+ "zeramulta": {
+  "name": "zeramulta",
+  "website": "zeramulta.com.br",
+  "signal": "dns",
+  "note": null,
+  "company": {
+   "id": "zeramulta",
+   "name": "zeramulta",
+   "website": "zeramulta.com.br",
+   "city": "londrina",
+   "sector": "SaaS",
+   "stage": "Unknown",
+   "ats": null,
+   "ats_slug": null,
+   "listed_by": "startupblink",
+   "listed_url": "https://www.startupblink.com/top-startups/londrina-br"
+  }
+ }
+}

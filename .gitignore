@@ -1,0 +1,42 @@
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials*.json
+secrets*.json
+.netrc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / web build
+node_modules/
+dist/
+*.tsbuildinfo
+npm-debug.log*
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Local tooling state
+.claude/settings.local.json
+.claude-flow/
+.swarm/
+agentdb.rvf*
+ruvector.db
+
+# Scratch output
+*.log
+tmp/

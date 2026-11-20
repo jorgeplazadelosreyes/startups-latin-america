@@ -1,0 +1,2317 @@
+[
+ {
+  "id": "99minutos",
+  "ats": "yc",
+  "slug": "99minutos",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico City, CDMX, MX"
+  ]
+ },
+ {
+  "id": "abstra",
+  "ats": "yc",
+  "slug": "abstra",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "abstra",
+  "ats": "bamboohr",
+  "slug": "abstra",
+  "evidence": "guess",
+  "jobs": 16,
+  "latam_share": 0.31,
+  "home_share": 0.06,
+  "sample": [
+   "Asuncion",
+   "Remote",
+   "Santa Ana, Costa Rica",
+   "São Paulo, Brazil",
+   "United States"
+  ]
+ },
+ {
+  "id": "actipulse-neuroscience",
+  "ats": "yc",
+  "slug": "actipulse-neuroscience",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "ahazou",
+  "ats": "yc",
+  "slug": "ahazou",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "airtm",
+  "ats": "lever",
+  "slug": "airtm",
+  "evidence": "guess",
+  "jobs": 6,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "LATAM"
+  ]
+ },
+ {
+  "id": "aleph-solutions-alephee",
+  "ats": "yc",
+  "slug": "aleph-solutions-alephee",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "alloy",
+  "ats": "greenhouse",
+  "slug": "alloy",
+  "evidence": "guess",
+  "jobs": 33,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "London, UK",
+   "New York City",
+   "New York City, Remote",
+   "Remote",
+   "Remote, United States"
+  ]
+ },
+ {
+  "id": "alloy",
+  "ats": "lever",
+  "slug": "alloy",
+  "evidence": "guess",
+  "jobs": 5,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Denver, CO",
+   "Remote - United States",
+   "Vancouver, BC",
+   "Washington, DC"
+  ]
+ },
+ {
+  "id": "altur",
+  "ats": "yc",
+  "slug": "altur",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico City, CDMX, MX / Remote"
+  ]
+ },
+ {
+  "id": "alude",
+  "ats": "yc",
+  "slug": "alude",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "ancana",
+  "ats": "yc",
+  "slug": "ancana",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "apurata",
+  "ats": "yc",
+  "slug": "apurata",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "atrato",
+  "ats": "ashby",
+  "slug": "atrato",
+  "evidence": "site",
+  "jobs": 2,
+  "latam_share": 0.5,
+  "home_share": 0.5,
+  "sample": [
+   "Fully Remote - México",
+   "Híbrido"
+  ]
+ },
+ {
+  "id": "atrato",
+  "ats": "yc",
+  "slug": "atrato",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "atrato",
+  "ats": "bamboohr",
+  "slug": "atrato",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "London, London, City of"
+  ]
+ },
+ {
+  "id": "axenya",
+  "ats": "inhire",
+  "slug": "axenya",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "São Paulo, SP, Brazil"
+  ]
+ },
+ {
+  "id": "banco-pichincha",
+  "ats": "lever",
+  "slug": "deuna",
+  "evidence": "guess",
+  "jobs": 9,
+  "latam_share": 0.67,
+  "home_share": 0.0,
+  "sample": [
+   "Ciudad de México, Mexico",
+   "San Francisco",
+   "United States"
+  ]
+ },
+ {
+  "id": "bancolombia-nequi",
+  "ats": "buk",
+  "slug": "lapipolnequi.buk.co",
+  "evidence": "site",
+  "jobs": 9,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Colombia",
+   "Medellín, Antioquia, Antioquia, Colombia"
+  ]
+ },
+ {
+  "id": "bankingly",
+  "ats": "peopleforce",
+  "slug": "bankingly",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 1.0,
+  "home_share": 0.5,
+  "sample": [
+   "Argentina",
+   "Uruguay"
+  ]
+ },
+ {
+  "id": "belozfi",
+  "ats": "yc",
+  "slug": "belozfi",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote (US)"
+  ]
+ },
+ {
+  "id": "boom-ai",
+  "ats": "yc",
+  "slug": "boom-ai",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "botcity",
+  "ats": "yc",
+  "slug": "botcity",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "boton",
+  "ats": "yc",
+  "slug": "boton",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "buk",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "site",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "buk",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "site",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "buk",
+  "ats": "buk",
+  "slug": "talento.buk.cl",
+  "evidence": "site",
+  "jobs": 4,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "buk",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "guess",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "buro-de-ingresos",
+  "ats": "yc",
+  "slug": "buro-de-ingresos",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "calii",
+  "ats": "yc",
+  "slug": "calii",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cardda",
+  "ats": "jsonld",
+  "slug": "https://www.cardda.com/jobs",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cardda",
+  "ats": "yc",
+  "slug": "cardda",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cero",
+  "ats": "yc",
+  "slug": "cero",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "certika-s-a-s",
+  "ats": "hiringroom",
+  "slug": "arquitecturadeltalento",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "chiletrabajos",
+  "ats": "buk",
+  "slug": "chileanrentacar.buk.cl",
+  "evidence": "site",
+  "jobs": 16,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Calama, II  de Antofagasta, El Loa, Chile",
+   "Concepción, VIII  del Biobío, Concepción, Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile",
+   "Providencia, RM  Metropolitana de Santiago, Santiago, Chile",
+   "Pudahuel, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "chipax",
+  "ats": "yc",
+  "slug": "chipax",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cifrato",
+  "ats": "yc",
+  "slug": "cifrato",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "clau",
+  "ats": "yc",
+  "slug": "clau",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "clicoh",
+  "ats": "yc",
+  "slug": "clicoh",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "clupp",
+  "ats": "yc",
+  "slug": "clupp",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "coalize",
+  "ats": "jsonld",
+  "slug": "https://www.coalize.com.br/trabalhe-conosco",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "coba",
+  "ats": "yc",
+  "slug": "coba",
+  "evidence": "site",
+  "jobs": 3,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "MX / US / Remote (MX; US)"
+  ]
+ },
+ {
+  "id": "coderhouse",
+  "ats": "jsonld",
+  "slug": "https://www.coderhouse.com/es/empleos",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "coderhouse",
+  "ats": "yc",
+  "slug": "coderhouse",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "codexa",
+  "ats": "yc",
+  "slug": "codexa",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "compra-rapida",
+  "ats": "yc",
+  "slug": "compra-rapida",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "contalink",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "site",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "contalink",
+  "ats": "buk",
+  "slug": "contalink.buk.mx",
+  "evidence": "site",
+  "jobs": 9,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico"
+  ]
+ },
+ {
+  "id": "contalink",
+  "ats": "yc",
+  "slug": "contalink",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "contalink",
+  "ats": "buk",
+  "slug": "contalink.buk.mx",
+  "evidence": "guess",
+  "jobs": 9,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico"
+  ]
+ },
+ {
+  "id": "creizer",
+  "ats": "yc",
+  "slug": "creizer",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cuanto",
+  "ats": "yc",
+  "slug": "cuanto",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "cumbuca",
+  "ats": "yc",
+  "slug": "cumbuca",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "datlo",
+  "ats": "yc",
+  "slug": "datlo",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "delee",
+  "ats": "yc",
+  "slug": "delee",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "econdos",
+  "ats": "jsonld",
+  "slug": "https://econdos.com.br/carreiras/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "emblue-group-sa",
+  "ats": "hiringroom",
+  "slug": "embluemarketingcloud",
+  "evidence": "site",
+  "jobs": 3,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Capital Federal, Capital Federal, Argentina"
+  ]
+ },
+ {
+  "id": "epic-aerospace",
+  "ats": "yc",
+  "slug": "epic-aerospace",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "estoca",
+  "ats": "yc",
+  "slug": "estoca",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "eva",
+  "ats": "gupy",
+  "slug": "eva",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Ouro Preto, MG, Brasil"
+  ]
+ },
+ {
+  "id": "evaluate-com",
+  "ats": "teamtailor",
+  "slug": "evaluar",
+  "evidence": "guess",
+  "jobs": 5,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": []
+ },
+ {
+  "id": "even3",
+  "ats": "jsonld",
+  "slug": "https://carreiras.even3.com.br/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "facio",
+  "ats": "yc",
+  "slug": "facio",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "factor",
+  "ats": "lever",
+  "slug": "factor",
+  "evidence": "guess",
+  "jobs": 13,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Bangalore",
+   "Belfast",
+   "Chicago",
+   "London",
+   "Luxembourg"
+  ]
+ },
+ {
+  "id": "filadd",
+  "ats": "yc",
+  "slug": "filadd",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "fintoc",
+  "ats": "jsonld",
+  "slug": "https://www.fintoc.com/careers",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "fintoc",
+  "ats": "jsonld",
+  "slug": "https://www.fintoc.com/careers?pais=cl",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "fithub",
+  "ats": "yc",
+  "slug": "fithub-2",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "fitia",
+  "ats": "yc",
+  "slug": "fitia",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "flux",
+  "ats": "yc",
+  "slug": "flux",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "futura",
+  "ats": "yc",
+  "slug": "futura",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "glitzi",
+  "ats": "yc",
+  "slug": "glitzi",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "gojom",
+  "ats": "yc",
+  "slug": "gojom",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "goschool",
+  "ats": "hiringroom",
+  "slug": "colegium",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "guruhotel",
+  "ats": "yc",
+  "slug": "guruhotel",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "heroui",
+  "ats": "yc",
+  "slug": "heroui",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "heru",
+  "ats": "yc",
+  "slug": "heru",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hint",
+  "ats": "lever",
+  "slug": "hint",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "USA or Canada - Remote"
+  ]
+ },
+ {
+  "id": "hippobuild",
+  "ats": "yc",
+  "slug": "hippobuild",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hogaru",
+  "ats": "yc",
+  "slug": "hogaru",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hoop-dev",
+  "ats": "yc",
+  "slug": "hoop-dev",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hotmart",
+  "ats": "jsonld",
+  "slug": "https://hotmart.com/en/jobs",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hotmart",
+  "ats": "jsonld",
+  "slug": "https://hotmart.com/pt-br/trabalhe-conosco",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "hotmart",
+  "ats": "jsonld",
+  "slug": "https://hotmart.com/pt-br/trabalhe-conosco/vagas",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "infinia",
+  "ats": "yc",
+  "slug": "infinia",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "instacrops",
+  "ats": "yc",
+  "slug": "instacrops",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "jamble",
+  "ats": "yc",
+  "slug": "jamble",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "jusbrasil",
+  "ats": "greenhouse",
+  "slug": "jusbrasil",
+  "evidence": "guess",
+  "jobs": 20,
+  "latam_share": 0.3,
+  "home_share": 0.3,
+  "sample": [
+   "Brasil",
+   "Remoto",
+   "Salvador",
+   "São Paulo",
+   "São Paulo/SP"
+  ]
+ },
+ {
+  "id": "kambista",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "site",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "kambista",
+  "ats": "buk",
+  "slug": "kambista.buk.pe",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "San Isidro, Lima, Lima , Peru"
+  ]
+ },
+ {
+  "id": "kambista",
+  "ats": "buk",
+  "slug": "kambista.buk.pe",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "San Isidro, Lima, Lima , Peru"
+  ]
+ },
+ {
+  "id": "kapital-bank",
+  "ats": "yc",
+  "slug": "kapital-bank",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "kashin",
+  "ats": "yc",
+  "slug": "kashin",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "keynua",
+  "ats": "yc",
+  "slug": "keynua",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "konta-com",
+  "ats": "yc",
+  "slug": "konta-com",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "kredi",
+  "ats": "yc",
+  "slug": "kredi",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "laika",
+  "ats": "buk",
+  "slug": "proyectoe.buk.co",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Colombia"
+  ]
+ },
+ {
+  "id": "laika",
+  "ats": "yc",
+  "slug": "laika",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "lapzo",
+  "ats": "yc",
+  "slug": "lapzo",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "leadsales",
+  "ats": "buk",
+  "slug": "leadsales.buk.mx",
+  "evidence": "site",
+  "jobs": 3,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico",
+   "Querétaro, Querétaro, Querétaro, Mexico"
+  ]
+ },
+ {
+  "id": "leadsales",
+  "ats": "buk",
+  "slug": "leadsales.buk.mx",
+  "evidence": "guess",
+  "jobs": 3,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico",
+   "Querétaro, Querétaro, Querétaro, Mexico"
+  ]
+ },
+ {
+  "id": "lenk",
+  "ats": "yc",
+  "slug": "lenk",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "lexter-ai",
+  "ats": "yc",
+  "slug": "lexter-ai",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "linkana",
+  "ats": "yc",
+  "slug": "linkana",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "linq-telecom",
+  "ats": "buk",
+  "slug": "linq.buk.co",
+  "evidence": "guess",
+  "jobs": 14,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Armenia, Quindío, Quindío, Colombia",
+   "Cali, Valle del Cauca, Valle del Cauca, Colombia",
+   "Colombia",
+   "Medellín, Antioquia, Antioquia, Colombia",
+   "Rionegro, Antioquia, Antioquia, Colombia"
+  ]
+ },
+ {
+  "id": "linq-telecom",
+  "ats": "bamboohr",
+  "slug": "linq",
+  "evidence": "guess",
+  "jobs": 5,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Lindon, Utah",
+   "Mayfair, London, City of",
+   "Salt Lake City, Utah",
+   "Sydney, New South Wales",
+   "Vancouver, British Columbia"
+  ]
+ },
+ {
+  "id": "linq-telecom",
+  "ats": "getonbrd",
+  "slug": "linq",
+  "evidence": "guess",
+  "jobs": 3,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "Chile",
+   "Peru"
+  ]
+ },
+ {
+  "id": "littio",
+  "ats": "yc",
+  "slug": "littio",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "livement",
+  "ats": "yc",
+  "slug": "livement",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "luable",
+  "ats": "yc",
+  "slug": "luable",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "lulo-bank",
+  "ats": "buk",
+  "slug": "lulobank.buk.co",
+  "evidence": "guess",
+  "jobs": 7,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Bogotá, Bogotá, D.C., Bogotá, D.C., Colombia",
+   "Colombia"
+  ]
+ },
+ {
+  "id": "malga",
+  "ats": "yc",
+  "slug": "malga",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "malga",
+  "ats": "ashby",
+  "slug": "malga",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "meddi",
+  "ats": "buk",
+  "slug": "meddi.buk.mx",
+  "evidence": "guess",
+  "jobs": 4,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Zapopan, Jalisco, Jalisco, Mexico"
+  ]
+ },
+ {
+  "id": "mendel",
+  "ats": "yc",
+  "slug": "mendel",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "meru-com",
+  "ats": "yc",
+  "slug": "meru-com",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "mesa-inc",
+  "ats": "bamboohr",
+  "slug": "mesa",
+  "evidence": "guess",
+  "jobs": 10,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Aurora, Colorado",
+   "Bozeman, Montana",
+   "Kent, Washington",
+   "San Diego, California",
+   "South Salt Lake, Utah"
+  ]
+ },
+ {
+  "id": "mesa-inc",
+  "ats": "breezy",
+  "slug": "mesa",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Vancover, WA"
+  ]
+ },
+ {
+  "id": "miggos",
+  "ats": "yc",
+  "slug": "miggos",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "milio",
+  "ats": "yc",
+  "slug": "milio",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "minu",
+  "ats": "inhire",
+  "slug": "minu",
+  "evidence": "guess",
+  "jobs": 4,
+  "latam_share": 1.0,
+  "home_share": 0.0,
+  "sample": [
+   "São Paulo, SP, Brazil"
+  ]
+ },
+ {
+  "id": "momento",
+  "ats": "yc",
+  "slug": "momento",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "moneypool",
+  "ats": "jsonld",
+  "slug": "https://www.moneypool.mx:443/pages/jobs",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "monto",
+  "ats": "yc",
+  "slug": "monto",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "morada-uno",
+  "ats": "yc",
+  "slug": "morada-uno",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "movinglake",
+  "ats": "yc",
+  "slug": "movinglake",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "mozper",
+  "ats": "yc",
+  "slug": "mozper",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "mudafy",
+  "ats": "yc",
+  "slug": "mudafy",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "munily",
+  "ats": "yc",
+  "slug": "munily",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "my-nextderma",
+  "ats": "yc",
+  "slug": "my-nextderma",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "nequi",
+  "ats": "buk",
+  "slug": "lapipolnequi.buk.co",
+  "evidence": "site",
+  "jobs": 9,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Colombia",
+   "Medellín, Antioquia, Antioquia, Colombia"
+  ]
+ },
+ {
+  "id": "nuuvem",
+  "ats": "recruitee",
+  "slug": "nuuvem",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Trabalho remoto"
+  ]
+ },
+ {
+  "id": "nuvocargo",
+  "ats": "jsonld",
+  "slug": "https://nuvocargo.com/careers",
+  "evidence": "site",
+  "jobs": 4,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "nuvocargo",
+  "ats": "jsonld",
+  "slug": "https://www.nuvocargo.com/careers",
+  "evidence": "site",
+  "jobs": 4,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "okani",
+  "ats": "yc",
+  "slug": "okani",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "olaclick",
+  "ats": "yc",
+  "slug": "olaclick",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "omnichat",
+  "ats": "ashby",
+  "slug": "omni",
+  "evidence": "guess",
+  "jobs": 32,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Dublin, Ireland",
+   "New York, NY",
+   "Remote - US",
+   "San Francisco, CA",
+   "Singapore"
+  ]
+ },
+ {
+  "id": "ontop",
+  "ats": "recruitee",
+  "slug": "getontop",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Homeoffice"
+  ]
+ },
+ {
+  "id": "pagaloop",
+  "ats": "yc",
+  "slug": "pagaloop",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "palomma",
+  "ats": "yc",
+  "slug": "palomma",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "panadata",
+  "ats": "yc",
+  "slug": "panadata",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "parrot-software",
+  "ats": "yc",
+  "slug": "parrot-software",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "paycaddy",
+  "ats": "yc",
+  "slug": "paycaddy",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "pide-directo",
+  "ats": "yc",
+  "slug": "pide-directo",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "pideaky",
+  "ats": "yc",
+  "slug": "pideaky",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "ping",
+  "ats": "yc",
+  "slug": "ping",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "pluggy",
+  "ats": "yc",
+  "slug": "pluggy",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "plutto",
+  "ats": "yc",
+  "slug": "plutto",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "poliglota",
+  "ats": "buk",
+  "slug": "buk.buk.cl",
+  "evidence": "site",
+  "jobs": 25,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Las Condes, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "poliglota",
+  "ats": "buk",
+  "slug": "poliglota.buk.cl",
+  "evidence": "site",
+  "jobs": 2,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Santiago, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "poliglota",
+  "ats": "yc",
+  "slug": "poliglota",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "poliglota",
+  "ats": "buk",
+  "slug": "poliglota.buk.cl",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Chile",
+   "Santiago, RM  Metropolitana de Santiago, Santiago, Chile"
+  ]
+ },
+ {
+  "id": "polotab",
+  "ats": "yc",
+  "slug": "polotab",
+  "evidence": "site",
+  "jobs": 2,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Mexico City, CDMX, MX / Mexico City, Mexico City, MX"
+  ]
+ },
+ {
+  "id": "portao-3",
+  "ats": "yc",
+  "slug": "portao-3",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "prestamype",
+  "ats": "hiringroom",
+  "slug": "grupoprestamype",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "prex",
+  "ats": "bamboohr",
+  "slug": "prex",
+  "evidence": "guess",
+  "jobs": 21,
+  "latam_share": 1.0,
+  "home_share": 0.14,
+  "sample": [
+   "Argentina, *",
+   "Buenos Aires, Buenos Aires",
+   "Lima, Lima",
+   "Montevideo, Montevideo"
+  ]
+ },
+ {
+  "id": "privacy",
+  "ats": "greenhouse",
+  "slug": "privacy",
+  "evidence": "guess",
+  "jobs": 4,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "programa-valentina",
+  "ats": "jsonld",
+  "slug": "https://programavalentina.com/bolsa-de-empleo/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "pronto",
+  "ats": "yc",
+  "slug": "pronto",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "pronto",
+  "ats": "greenhouse",
+  "slug": "pronto",
+  "evidence": "guess",
+  "jobs": 37,
+  "latam_share": 0.14,
+  "home_share": 0.0,
+  "sample": [
+   "Belo Horizonte, Brazil",
+   "Dallas, TX",
+   "Nova Lima, Brazil",
+   "Parauapebas, Brazil",
+   "Riyadh, KSA"
+  ]
+ },
+ {
+  "id": "quero-education",
+  "ats": "yc",
+  "slug": "quero-education",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "quik",
+  "ats": "yc",
+  "slug": "quik",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "rendalomaq",
+  "ats": "yc",
+  "slug": "rendalomaq",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "rio",
+  "ats": "yc",
+  "slug": "rio",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "rootstrap",
+  "ats": "peopleforce",
+  "slug": "rootstrap",
+  "evidence": "site",
+  "jobs": 8,
+  "latam_share": 1.0,
+  "home_share": 0.88,
+  "sample": [
+   "Argentina",
+   "Argentina/Uruguay",
+   "Argentina/Uruguay/Colombia"
+  ]
+ },
+ {
+  "id": "ruuf",
+  "ats": "yc",
+  "slug": "ruuf",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "ruvo",
+  "ats": "yc",
+  "slug": "ruvo",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "sagicc",
+  "ats": "jsonld",
+  "slug": "https://sagicc.co/es/empleos/gracias/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "sagicc",
+  "ats": "jsonld",
+  "slug": "https://sagicc.co/es/empleos/trabaja-con-nosotros/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "sagicc",
+  "ats": "jsonld",
+  "slug": "https://sagicc.co/es/empleos/vacante-demo/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "sagicc",
+  "ats": "jsonld",
+  "slug": "https://sagicc.co/es/empleos/vacante-tecnico-en-soporte-nivel-1/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "salvy",
+  "ats": "jsonld",
+  "slug": "https://salvy.com.br/carreiras",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "salvy",
+  "ats": "yc",
+  "slug": "salvy",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "shuttle-central",
+  "ats": "yc",
+  "slug": "shuttle-central",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote (Cancún, Q.R., MX)"
+  ]
+ },
+ {
+  "id": "siglo",
+  "ats": "yc",
+  "slug": "siglo",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "solides",
+  "ats": "jsonld",
+  "slug": "https://forbes.com.br/carreira/2024/06/infomercial-solides-o-papel-da-inteligencia-comportamental-no-crescimento-dos-negocios/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "solides",
+  "ats": "jsonld",
+  "slug": "https://vagas.solides.com.br/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "sytex",
+  "ats": "yc",
+  "slug": "sytex",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "talentropy-ai",
+  "ats": "yc",
+  "slug": "talentropy-ai",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "tango",
+  "ats": "ashby",
+  "slug": "tango",
+  "evidence": "guess",
+  "jobs": 2,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Remote"
+  ]
+ },
+ {
+  "id": "terapify",
+  "ats": "yc",
+  "slug": "terapify",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "terramagna",
+  "ats": "jsonld",
+  "slug": "https://terramagna.com.br/blog/tag/carreira/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "thomas",
+  "ats": "yc",
+  "slug": "thomas",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "tienda-crypto",
+  "ats": "yc",
+  "slug": "tienda-crypto",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "todos-comemos",
+  "ats": "yc",
+  "slug": "todos-comemos",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "tpaga",
+  "ats": "yc",
+  "slug": "tpaga",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "tractian",
+  "ats": "jsonld",
+  "slug": "https://careers.tractian.com/",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "trafilea",
+  "ats": "recruitee",
+  "slug": "trafilea",
+  "evidence": "guess",
+  "jobs": 39,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "California, California, United States",
+   "Remote job",
+   "Yiwu, Zhejiang Sheng, China"
+  ]
+ },
+ {
+  "id": "tranqui-finanzas",
+  "ats": "yc",
+  "slug": "tranqui-finanzas",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "treble-ai",
+  "ats": "yc",
+  "slug": "treble-ai",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "treble-ai",
+  "ats": "bamboohr",
+  "slug": "treble",
+  "evidence": "guess",
+  "jobs": 7,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Reykjavík",
+   "San Francisco Bay Area, California, United States"
+  ]
+ },
+ {
+  "id": "trebol",
+  "ats": "yc",
+  "slug": "trebol",
+  "evidence": "site",
+  "jobs": 2,
+  "latam_share": 1.0,
+  "home_share": 0.5,
+  "sample": [
+   "Bogotá, Bogota, CO / Mexico City, CDMX, MX / Mexico City, Mexico City, MX / SP, BR / State of São Paulo, BR / Medellín, Antioquia, CO / Monterrey, N.L., MX / Monterrey, Nuevo Leon, MX / Guadalajara, Jal., MX / Guadalajara, Jalisco, MX / Buenos Aires, Buenos Aires, AR / Remote (Bogotá, Bogota, CO; Mexico City, CDMX, MX; Mexico City, Mexico City, MX; SP, BR; State of São Paulo, BR; Medellín, Antioquia, CO; Monterrey, N.L., MX; Monterrey, Nuevo Leon, MX; Guadalajara, Jal., MX; Guadalajara, Jalisco, MX; Buenos Aires, Buenos Aires, AR)",
+   "Mexico City, CDMX, MX / Mexico City, Mexico City, MX"
+  ]
+ },
+ {
+  "id": "tributi",
+  "ats": "yc",
+  "slug": "tributi",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "trii",
+  "ats": "yc",
+  "slug": "trii",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "truora",
+  "ats": "peopleforce",
+  "slug": "truora",
+  "evidence": "site",
+  "jobs": 13,
+  "latam_share": 1.0,
+  "home_share": 0.31,
+  "sample": [
+   "Brasil",
+   "Colombia",
+   "LATAM",
+   "México"
+  ]
+ },
+ {
+  "id": "tul",
+  "ats": "peopleforce",
+  "slug": "tul",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Colombia"
+  ]
+ },
+ {
+  "id": "tumipay",
+  "ats": "buk",
+  "slug": "tumipay.buk.co",
+  "evidence": "guess",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Barranquilla, Atlántico, Atlántico, Colombia"
+  ]
+ },
+ {
+  "id": "ubits",
+  "ats": "yc",
+  "slug": "ubits",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "unio-digital",
+  "ats": "breezy",
+  "slug": "unio-digital",
+  "evidence": "guess",
+  "jobs": 5,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Tucson, AZ"
+  ]
+ },
+ {
+  "id": "uno",
+  "ats": "recruitee",
+  "slug": "uno",
+  "evidence": "guess",
+  "jobs": 12,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Rijswijk, Zuid-Holland, Nederland"
+  ]
+ },
+ {
+  "id": "vendah",
+  "ats": "yc",
+  "slug": "vendah",
+  "evidence": "site",
+  "jobs": 1,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "São Paulo, SP, BR / São Paulo, State of São Paulo, BR"
+  ]
+ },
+ {
+  "id": "vinco",
+  "ats": "yc",
+  "slug": "vinco",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "vitau",
+  "ats": "yc",
+  "slug": "vitau",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "vobi",
+  "ats": "yc",
+  "slug": "vobi",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "wibond",
+  "ats": "yc",
+  "slug": "wibond",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "wow-tel",
+  "ats": "buk",
+  "slug": "wowperu.buk.pe",
+  "evidence": "guess",
+  "jobs": 5,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Lima, Lima, Lima , Peru",
+   "Peru"
+  ]
+ },
+ {
+  "id": "yalutec",
+  "ats": "peopleforce",
+  "slug": "yalutec",
+  "evidence": "guess",
+  "jobs": 3,
+  "latam_share": 1.0,
+  "home_share": 1.0,
+  "sample": [
+   "Guatemala"
+  ]
+ },
+ {
+  "id": "yeet",
+  "ats": "ashby",
+  "slug": "yeet",
+  "evidence": "guess",
+  "jobs": 7,
+  "latam_share": 0.0,
+  "home_share": 0.0,
+  "sample": [
+   "Chicago"
+  ]
+ },
+ {
+  "id": "z1",
+  "ats": "yc",
+  "slug": "z1",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ },
+ {
+  "id": "zazos",
+  "ats": "yc",
+  "slug": "zazos",
+  "evidence": "site",
+  "jobs": 0,
+  "latam_share": null,
+  "home_share": null,
+  "sample": []
+ }
+]

@@ -1,0 +1,1412 @@
+[
+ {
+  "name": "Nubank",
+  "website": "nubank.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Public",
+  "slugs": [
+   "nubank"
+  ]
+ },
+ {
+  "name": "QuintoAndar",
+  "website": "quintoandar.com.br",
+  "city": "sao-paulo",
+  "sector": "Proptech",
+  "stage": "Late",
+  "slugs": [
+   "quintoandar"
+  ]
+ },
+ {
+  "name": "Loft",
+  "website": "loft.com.br",
+  "city": "sao-paulo",
+  "sector": "Proptech",
+  "stage": "Late",
+  "slugs": [
+   "loft",
+   "loftbr"
+  ]
+ },
+ {
+  "name": "Creditas",
+  "website": "creditas.com",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "creditas"
+  ]
+ },
+ {
+  "name": "CloudWalk",
+  "website": "cloudwalk.io",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "cloudwalk"
+  ]
+ },
+ {
+  "name": "Neon",
+  "website": "neon.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "neon",
+   "banconeon"
+  ]
+ },
+ {
+  "name": "Wellhub",
+  "website": "wellhub.com",
+  "city": "sao-paulo",
+  "sector": "Healthtech",
+  "stage": "Late",
+  "slugs": [
+   "wellhub",
+   "gympass"
+  ]
+ },
+ {
+  "name": "Unico",
+  "website": "unico.io",
+  "city": "sao-paulo",
+  "sector": "Identity & Security",
+  "stage": "Late",
+  "slugs": [
+   "unico",
+   "unicoidtech"
+  ]
+ },
+ {
+  "name": "Cora",
+  "website": "cora.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "cora",
+   "corabank"
+  ]
+ },
+ {
+  "name": "Stark Bank",
+  "website": "starkbank.com",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "starkbank"
+  ]
+ },
+ {
+  "name": "Pismo",
+  "website": "pismo.io",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "pismo"
+  ]
+ },
+ {
+  "name": "Dock",
+  "website": "dock.tech",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "dock",
+   "docktech"
+  ]
+ },
+ {
+  "name": "Tractian",
+  "website": "tractian.com",
+  "city": "sao-paulo",
+  "sector": "Industrial AI",
+  "stage": "Growth",
+  "slugs": [
+   "tractian"
+  ]
+ },
+ {
+  "name": "Loggi",
+  "website": "loggi.com",
+  "city": "sao-paulo",
+  "sector": "Logistics",
+  "stage": "Late",
+  "slugs": [
+   "loggi"
+  ]
+ },
+ {
+  "name": "Daki",
+  "website": "soudaki.com",
+  "city": "sao-paulo",
+  "sector": "Quick Commerce",
+  "stage": "Growth",
+  "slugs": [
+   "daki",
+   "jokr"
+  ]
+ },
+ {
+  "name": "Omie",
+  "website": "omie.com.br",
+  "city": "sao-paulo",
+  "sector": "SaaS",
+  "stage": "Growth",
+  "slugs": [
+   "omie"
+  ]
+ },
+ {
+  "name": "Conta Simples",
+  "website": "contasimples.com",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "contasimples"
+  ]
+ },
+ {
+  "name": "Cayena",
+  "website": "cayena.com.br",
+  "city": "sao-paulo",
+  "sector": "B2B Marketplace",
+  "stage": "Growth",
+  "slugs": [
+   "cayena"
+  ]
+ },
+ {
+  "name": "Alice",
+  "website": "alice.com.br",
+  "city": "sao-paulo",
+  "sector": "Healthtech",
+  "stage": "Growth",
+  "slugs": [
+   "alice",
+   "alicesaude"
+  ]
+ },
+ {
+  "name": "Hash",
+  "website": "hash.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "hash",
+   "hashlab"
+  ]
+ },
+ {
+  "name": "Mercado Bitcoin",
+  "website": "mercadobitcoin.com.br",
+  "city": "sao-paulo",
+  "sector": "Crypto",
+  "stage": "Late",
+  "slugs": [
+   "mercadobitcoin"
+  ]
+ },
+ {
+  "name": "Solfácil",
+  "website": "solfacil.com.br",
+  "city": "sao-paulo",
+  "sector": "Climate & Energy",
+  "stage": "Late",
+  "slugs": [
+   "solfacil"
+  ]
+ },
+ {
+  "name": "Gupy",
+  "website": "gupy.io",
+  "city": "sao-paulo",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "gupy"
+  ]
+ },
+ {
+  "name": "Kovi",
+  "website": "kovi.com.br",
+  "city": "sao-paulo",
+  "sector": "Mobility",
+  "stage": "Growth",
+  "slugs": [
+   "kovi"
+  ]
+ },
+ {
+  "name": "Swap",
+  "website": "swap.financial",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "swap",
+   "swapfinancial"
+  ]
+ },
+ {
+  "name": "Celcoin",
+  "website": "celcoin.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "celcoin"
+  ]
+ },
+ {
+  "name": "Vammo",
+  "website": "vammo.com",
+  "city": "sao-paulo",
+  "sector": "Mobility",
+  "stage": "Early",
+  "slugs": [
+   "vammo"
+  ]
+ },
+ {
+  "name": "Asaas",
+  "website": "asaas.com",
+  "city": "joinville",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "asaas"
+  ]
+ },
+ {
+  "name": "Ebanx",
+  "website": "ebanx.com",
+  "city": "curitiba",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "ebanx"
+  ]
+ },
+ {
+  "name": "Olist",
+  "website": "olist.com",
+  "city": "curitiba",
+  "sector": "E-commerce",
+  "stage": "Late",
+  "slugs": [
+   "olist"
+  ]
+ },
+ {
+  "name": "MadeiraMadeira",
+  "website": "madeiramadeira.com.br",
+  "city": "curitiba",
+  "sector": "E-commerce",
+  "stage": "Late",
+  "slugs": [
+   "madeiramadeira"
+  ]
+ },
+ {
+  "name": "Pipefy",
+  "website": "pipefy.com",
+  "city": "curitiba",
+  "sector": "SaaS",
+  "stage": "Growth",
+  "slugs": [
+   "pipefy"
+  ]
+ },
+ {
+  "name": "Contabilizei",
+  "website": "contabilizei.com.br",
+  "city": "curitiba",
+  "sector": "SaaS",
+  "stage": "Growth",
+  "slugs": [
+   "contabilizei"
+  ]
+ },
+ {
+  "name": "VTEX",
+  "website": "vtex.com",
+  "city": "rio-de-janeiro",
+  "sector": "E-commerce",
+  "stage": "Public",
+  "slugs": [
+   "vtex"
+  ]
+ },
+ {
+  "name": "Hotmart",
+  "website": "hotmart.com",
+  "city": "belo-horizonte",
+  "sector": "Creator Economy",
+  "stage": "Late",
+  "slugs": [
+   "hotmart"
+  ]
+ },
+ {
+  "name": "Trybe",
+  "website": "betrybe.com",
+  "city": "belo-horizonte",
+  "sector": "Edtech",
+  "stage": "Growth",
+  "slugs": [
+   "trybe",
+   "betrybe"
+  ]
+ },
+ {
+  "name": "Take Blip",
+  "website": "blip.ai",
+  "city": "belo-horizonte",
+  "sector": "AI & Messaging",
+  "stage": "Late",
+  "slugs": [
+   "blip",
+   "takeblip"
+  ]
+ },
+ {
+  "name": "RD Station",
+  "website": "rdstation.com",
+  "city": "florianopolis",
+  "sector": "SaaS",
+  "stage": "Late",
+  "slugs": [
+   "rdstation",
+   "resultadosdigitais"
+  ]
+ },
+ {
+  "name": "Kavak",
+  "website": "kavak.com",
+  "city": "mexico-city",
+  "sector": "Mobility",
+  "stage": "Late",
+  "slugs": [
+   "kavak"
+  ]
+ },
+ {
+  "name": "Clip",
+  "website": "clip.mx",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "clip",
+   "payclip"
+  ]
+ },
+ {
+  "name": "Konfío",
+  "website": "konfio.mx",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "konfio"
+  ]
+ },
+ {
+  "name": "Bitso",
+  "website": "bitso.com",
+  "city": "mexico-city",
+  "sector": "Crypto",
+  "stage": "Late",
+  "slugs": [
+   "bitso"
+  ]
+ },
+ {
+  "name": "Stori",
+  "website": "storicard.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "stori",
+   "storicard"
+  ]
+ },
+ {
+  "name": "Clara",
+  "website": "clara.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "clara"
+  ]
+ },
+ {
+  "name": "Klar",
+  "website": "klar.mx",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "klar"
+  ]
+ },
+ {
+  "name": "Plata",
+  "website": "plata.mx",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "plata",
+   "platacard"
+  ]
+ },
+ {
+  "name": "Belvo",
+  "website": "belvo.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "belvo"
+  ]
+ },
+ {
+  "name": "Fondeadora",
+  "website": "fondeadora.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "fondeadora"
+  ]
+ },
+ {
+  "name": "Albo",
+  "website": "albo.mx",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "albo"
+  ]
+ },
+ {
+  "name": "Cuenca",
+  "website": "cuenca.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "cuenca"
+  ]
+ },
+ {
+  "name": "Jüsto",
+  "website": "justo.mx",
+  "city": "mexico-city",
+  "sector": "Quick Commerce",
+  "stage": "Growth",
+  "slugs": [
+   "justo",
+   "jusabor"
+  ]
+ },
+ {
+  "name": "Runa",
+  "website": "runahr.com",
+  "city": "mexico-city",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "runa",
+   "runahr"
+  ]
+ },
+ {
+  "name": "Worky",
+  "website": "worky.mx",
+  "city": "mexico-city",
+  "sector": "HR Tech",
+  "stage": "Early",
+  "slugs": [
+   "worky"
+  ]
+ },
+ {
+  "name": "Baubap",
+  "website": "baubap.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "baubap"
+  ]
+ },
+ {
+  "name": "Kapital",
+  "website": "kapital.com",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "kapital",
+   "kapitalbank"
+  ]
+ },
+ {
+  "name": "Flat.mx",
+  "website": "flat.mx",
+  "city": "mexico-city",
+  "sector": "Proptech",
+  "stage": "Growth",
+  "slugs": [
+   "flat",
+   "flatmx"
+  ]
+ },
+ {
+  "name": "Merama",
+  "website": "merama.io",
+  "city": "mexico-city",
+  "sector": "E-commerce",
+  "stage": "Growth",
+  "slugs": [
+   "merama"
+  ]
+ },
+ {
+  "name": "Minu",
+  "website": "minu.mx",
+  "city": "mexico-city",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "minu"
+  ]
+ },
+ {
+  "name": "Fairplay",
+  "website": "fairplay.club",
+  "city": "mexico-city",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "fairplay"
+  ]
+ },
+ {
+  "name": "Kueski",
+  "website": "kueski.com",
+  "city": "guadalajara",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "kueski"
+  ]
+ },
+ {
+  "name": "Wizeline",
+  "website": "wizeline.com",
+  "city": "guadalajara",
+  "sector": "AI & Software",
+  "stage": "Late",
+  "slugs": [
+   "wizeline"
+  ]
+ },
+ {
+  "name": "Nowports",
+  "website": "nowports.com",
+  "city": "monterrey",
+  "sector": "Logistics",
+  "stage": "Late",
+  "slugs": [
+   "nowports"
+  ]
+ },
+ {
+  "name": "Tul",
+  "website": "tul.io",
+  "city": "bogota",
+  "sector": "B2B Marketplace",
+  "stage": "Growth",
+  "slugs": [
+   "tul"
+  ]
+ },
+ {
+  "name": "Rappi",
+  "website": "rappi.com",
+  "city": "bogota",
+  "sector": "Quick Commerce",
+  "stage": "Late",
+  "slugs": [
+   "rappi"
+  ]
+ },
+ {
+  "name": "Habi",
+  "website": "habi.co",
+  "city": "bogota",
+  "sector": "Proptech",
+  "stage": "Late",
+  "slugs": [
+   "habi"
+  ]
+ },
+ {
+  "name": "Addi",
+  "website": "addi.com",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "addi"
+  ]
+ },
+ {
+  "name": "Platzi",
+  "website": "platzi.com",
+  "city": "bogota",
+  "sector": "Edtech",
+  "stage": "Growth",
+  "slugs": [
+   "platzi"
+  ]
+ },
+ {
+  "name": "Truora",
+  "website": "truora.com",
+  "city": "bogota",
+  "sector": "Identity & Security",
+  "stage": "Growth",
+  "slugs": [
+   "truora"
+  ]
+ },
+ {
+  "name": "Bold",
+  "website": "bold.co",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "bold",
+   "boldco"
+  ]
+ },
+ {
+  "name": "Treinta",
+  "website": "treinta.co",
+  "city": "bogota",
+  "sector": "SaaS",
+  "stage": "Growth",
+  "slugs": [
+   "treinta"
+  ]
+ },
+ {
+  "name": "Simetrik",
+  "website": "simetrik.com",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "simetrik"
+  ]
+ },
+ {
+  "name": "Frubana",
+  "website": "frubana.com",
+  "city": "bogota",
+  "sector": "B2B Marketplace",
+  "stage": "Growth",
+  "slugs": [
+   "frubana"
+  ]
+ },
+ {
+  "name": "Mono",
+  "website": "mono.la",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "mono",
+   "monola"
+  ]
+ },
+ {
+  "name": "Siigo",
+  "website": "siigo.com",
+  "city": "bogota",
+  "sector": "SaaS",
+  "stage": "Late",
+  "slugs": [
+   "siigo"
+  ]
+ },
+ {
+  "name": "La Haus",
+  "website": "lahaus.com",
+  "city": "medellin",
+  "sector": "Proptech",
+  "stage": "Growth",
+  "slugs": [
+   "lahaus"
+  ]
+ },
+ {
+  "name": "Bancolombia Nequi",
+  "website": "nequi.com.co",
+  "city": "medellin",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "nequi"
+  ]
+ },
+ {
+  "name": "Ualá",
+  "website": "uala.com.ar",
+  "city": "buenos-aires",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "uala"
+  ]
+ },
+ {
+  "name": "Tiendanube",
+  "website": "tiendanube.com",
+  "city": "buenos-aires",
+  "sector": "E-commerce",
+  "stage": "Late",
+  "slugs": [
+   "tiendanube",
+   "nuvemshop"
+  ]
+ },
+ {
+  "name": "Lemon",
+  "website": "lemon.me",
+  "city": "buenos-aires",
+  "sector": "Crypto",
+  "stage": "Growth",
+  "slugs": [
+   "lemon",
+   "lemoncash"
+  ]
+ },
+ {
+  "name": "Belo",
+  "website": "belo.app",
+  "city": "buenos-aires",
+  "sector": "Crypto",
+  "stage": "Early",
+  "slugs": [
+   "belo"
+  ]
+ },
+ {
+  "name": "Pomelo",
+  "website": "pomelo.la",
+  "city": "buenos-aires",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "pomelo"
+  ]
+ },
+ {
+  "name": "Satellogic",
+  "website": "satellogic.com",
+  "city": "buenos-aires",
+  "sector": "Space",
+  "stage": "Public",
+  "slugs": [
+   "satellogic"
+  ]
+ },
+ {
+  "name": "Henry",
+  "website": "soyhenry.com",
+  "city": "buenos-aires",
+  "sector": "Edtech",
+  "stage": "Growth",
+  "slugs": [
+   "henry",
+   "soyhenry"
+  ]
+ },
+ {
+  "name": "Humand",
+  "website": "humand.co",
+  "city": "buenos-aires",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "humand"
+  ]
+ },
+ {
+  "name": "Rebill",
+  "website": "rebill.com",
+  "city": "buenos-aires",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "rebill"
+  ]
+ },
+ {
+  "name": "Ripio",
+  "website": "ripio.com",
+  "city": "buenos-aires",
+  "sector": "Crypto",
+  "stage": "Growth",
+  "slugs": [
+   "ripio"
+  ]
+ },
+ {
+  "name": "Buenbit",
+  "website": "buenbit.com",
+  "city": "buenos-aires",
+  "sector": "Crypto",
+  "stage": "Growth",
+  "slugs": [
+   "buenbit"
+  ]
+ },
+ {
+  "name": "Emi Labs",
+  "website": "emilabs.ai",
+  "city": "buenos-aires",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "emilabs",
+   "emi"
+  ]
+ },
+ {
+  "name": "Workana",
+  "website": "workana.com",
+  "city": "buenos-aires",
+  "sector": "Marketplace",
+  "stage": "Growth",
+  "slugs": [
+   "workana"
+  ]
+ },
+ {
+  "name": "Nubimetrics",
+  "website": "nubimetrics.com",
+  "city": "buenos-aires",
+  "sector": "SaaS",
+  "stage": "Early",
+  "slugs": [
+   "nubimetrics"
+  ]
+ },
+ {
+  "name": "Tango",
+  "website": "tango.lat",
+  "city": "buenos-aires",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "tango"
+  ]
+ },
+ {
+  "name": "NotCo",
+  "website": "notco.com",
+  "city": "santiago",
+  "sector": "Foodtech",
+  "stage": "Late",
+  "slugs": [
+   "notco",
+   "thenotcompany"
+  ]
+ },
+ {
+  "name": "Betterfly",
+  "website": "betterfly.com",
+  "city": "santiago",
+  "sector": "Insurtech",
+  "stage": "Late",
+  "slugs": [
+   "betterfly"
+  ]
+ },
+ {
+  "name": "Fintual",
+  "website": "fintual.com",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "fintual"
+  ]
+ },
+ {
+  "name": "Buk",
+  "website": "buk.cl",
+  "city": "santiago",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "buk"
+  ]
+ },
+ {
+  "name": "Xepelin",
+  "website": "xepelin.com",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "xepelin"
+  ]
+ },
+ {
+  "name": "Fintoc",
+  "website": "fintoc.com",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "fintoc"
+  ]
+ },
+ {
+  "name": "Toku",
+  "website": "trytoku.com",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "toku"
+  ]
+ },
+ {
+  "name": "Houm",
+  "website": "houm.com",
+  "city": "santiago",
+  "sector": "Proptech",
+  "stage": "Growth",
+  "slugs": [
+   "houm"
+  ]
+ },
+ {
+  "name": "Tenpo",
+  "website": "tenpo.cl",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "tenpo"
+  ]
+ },
+ {
+  "name": "Global66",
+  "website": "global66.com",
+  "city": "santiago",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "global66"
+  ]
+ },
+ {
+  "name": "Fracttal",
+  "website": "fracttal.com",
+  "city": "santiago",
+  "sector": "Industrial AI",
+  "stage": "Growth",
+  "slugs": [
+   "fracttal"
+  ]
+ },
+ {
+  "name": "Lemontech",
+  "website": "lemontech.com",
+  "city": "santiago",
+  "sector": "SaaS",
+  "stage": "Growth",
+  "slugs": [
+   "lemontech"
+  ]
+ },
+ {
+  "name": "Platanus",
+  "website": "platan.us",
+  "city": "santiago",
+  "sector": "AI & Software",
+  "stage": "Early",
+  "slugs": [
+   "platanus"
+  ]
+ },
+ {
+  "name": "Mercat",
+  "website": "mercat.cl",
+  "city": "santiago",
+  "sector": "B2B Marketplace",
+  "stage": "Early",
+  "slugs": [
+   "mercat"
+  ]
+ },
+ {
+  "name": "Rankmi",
+  "website": "rankmi.com",
+  "city": "santiago",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "rankmi"
+  ]
+ },
+ {
+  "name": "dLocal",
+  "website": "dlocal.com",
+  "city": "montevideo",
+  "sector": "Fintech",
+  "stage": "Public",
+  "slugs": [
+   "dlocal"
+  ]
+ },
+ {
+  "name": "PedidosYa",
+  "website": "pedidosya.com",
+  "city": "montevideo",
+  "sector": "Quick Commerce",
+  "stage": "Late",
+  "slugs": [
+   "pedidosya"
+  ]
+ },
+ {
+  "name": "Rootstrap",
+  "website": "rootstrap.com",
+  "city": "montevideo",
+  "sector": "AI & Software",
+  "stage": "Growth",
+  "slugs": [
+   "rootstrap"
+  ]
+ },
+ {
+  "name": "Abstracta",
+  "website": "abstracta.us",
+  "city": "montevideo",
+  "sector": "AI & Software",
+  "stage": "Growth",
+  "slugs": [
+   "abstracta"
+  ]
+ },
+ {
+  "name": "Prometeo",
+  "website": "prometeoapi.com",
+  "city": "montevideo",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "prometeo"
+  ]
+ },
+ {
+  "name": "Crehana",
+  "website": "crehana.com",
+  "city": "lima",
+  "sector": "Edtech",
+  "stage": "Growth",
+  "slugs": [
+   "crehana"
+  ]
+ },
+ {
+  "name": "Culqi",
+  "website": "culqi.com",
+  "city": "lima",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "culqi"
+  ]
+ },
+ {
+  "name": "Kambista",
+  "website": "kambista.com",
+  "city": "lima",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "kambista"
+  ]
+ },
+ {
+  "name": "Fitco",
+  "website": "fitcoapp.com",
+  "city": "lima",
+  "sector": "SaaS",
+  "stage": "Early",
+  "slugs": [
+   "fitco"
+  ]
+ },
+ {
+  "name": "Chazki",
+  "website": "chazki.com",
+  "city": "lima",
+  "sector": "Logistics",
+  "stage": "Early",
+  "slugs": [
+   "chazki"
+  ]
+ },
+ {
+  "name": "Kushki",
+  "website": "kushki.com",
+  "city": "quito",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "kushki"
+  ]
+ },
+ {
+  "name": "Payphone",
+  "website": "payphone.app",
+  "city": "quito",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "payphone"
+  ]
+ },
+ {
+  "name": "Hugo",
+  "website": "hugoapp.com",
+  "city": "san-salvador",
+  "sector": "Quick Commerce",
+  "stage": "Growth",
+  "slugs": [
+   "hugo",
+   "hugoapp"
+  ]
+ },
+ {
+  "name": "Yuno",
+  "website": "y.uno",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "yuno"
+  ]
+ },
+ {
+  "name": "Ontop",
+  "website": "getontop.com",
+  "city": "bogota",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "ontop",
+   "getontop"
+  ]
+ },
+ {
+  "name": "Cobre",
+  "website": "cobre.co",
+  "city": "bogota",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "cobre"
+  ]
+ },
+ {
+  "name": "Muni",
+  "website": "muni.com.co",
+  "city": "bogota",
+  "sector": "Quick Commerce",
+  "stage": "Early",
+  "slugs": [
+   "muni"
+  ]
+ },
+ {
+  "name": "Kiwibot",
+  "website": "kiwibot.com",
+  "city": "medellin",
+  "sector": "Robotics",
+  "stage": "Early",
+  "slugs": [
+   "kiwibot"
+  ]
+ },
+ {
+  "name": "Somos Internet",
+  "website": "somosinternet.co",
+  "city": "medellin",
+  "sector": "Telecom",
+  "stage": "Early",
+  "slugs": [
+   "somos",
+   "somosinternet"
+  ]
+ },
+ {
+  "name": "Rocketfy",
+  "website": "rocketfy.co",
+  "city": "medellin",
+  "sector": "E-commerce",
+  "stage": "Early",
+  "slugs": [
+   "rocketfy"
+  ]
+ },
+ {
+  "name": "Zubale",
+  "website": "zubale.com",
+  "city": "mexico-city",
+  "sector": "Logistics",
+  "stage": "Growth",
+  "slugs": [
+   "zubale"
+  ]
+ },
+ {
+  "name": "Nuvocargo",
+  "website": "nuvocargo.com",
+  "city": "mexico-city",
+  "sector": "Logistics",
+  "stage": "Growth",
+  "slugs": [
+   "nuvocargo"
+  ]
+ },
+ {
+  "name": "Skydropx",
+  "website": "skydropx.com",
+  "city": "monterrey",
+  "sector": "Logistics",
+  "stage": "Growth",
+  "slugs": [
+   "skydropx"
+  ]
+ },
+ {
+  "name": "Cuemby",
+  "website": "cuemby.com",
+  "city": "medellin",
+  "sector": "Cloud",
+  "stage": "Early",
+  "slugs": [
+   "cuemby"
+  ]
+ },
+ {
+  "name": "Prisma Medios de Pago",
+  "website": "prismamediosdepago.com",
+  "city": "buenos-aires",
+  "sector": "Fintech",
+  "stage": "Late",
+  "slugs": [
+   "prisma"
+  ]
+ },
+ {
+  "name": "Mural",
+  "website": "mural.co",
+  "city": "buenos-aires",
+  "sector": "SaaS",
+  "stage": "Late",
+  "slugs": [
+   "mural"
+  ]
+ },
+ {
+  "name": "Revelo",
+  "website": "revelo.com",
+  "city": "sao-paulo",
+  "sector": "HR Tech",
+  "stage": "Growth",
+  "slugs": [
+   "revelo"
+  ]
+ },
+ {
+  "name": "Kanastra",
+  "website": "kanastra.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "kanastra"
+  ]
+ },
+ {
+  "name": "Tako",
+  "website": "tako.com.br",
+  "city": "sao-paulo",
+  "sector": "HR Tech",
+  "stage": "Early",
+  "slugs": [
+   "tako"
+  ]
+ },
+ {
+  "name": "Magnetis",
+  "website": "magnetis.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Growth",
+  "slugs": [
+   "magnetis"
+  ]
+ },
+ {
+  "name": "Liqi",
+  "website": "liqi.com.br",
+  "city": "sao-paulo",
+  "sector": "Crypto",
+  "stage": "Early",
+  "slugs": [
+   "liqi"
+  ]
+ },
+ {
+  "name": "Zippi",
+  "website": "zippi.com.br",
+  "city": "sao-paulo",
+  "sector": "Fintech",
+  "stage": "Early",
+  "slugs": [
+   "zippi"
+  ]
+ }
+]
